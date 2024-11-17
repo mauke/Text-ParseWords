@@ -202,7 +202,7 @@ functions simply call C<parse_line()>, so if you're only splitting
 one line you can call C<parse_line()> directly and save a function
 call.
 
-The C<$keep> controls what happens with delimters and special characters:
+The C<$keep> controls what happens with delimiters and special characters:
 
 =over 4
 
